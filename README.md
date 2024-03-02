@@ -1,6 +1,10 @@
 # my-nft
 The simple NFT token on Mantle Sepolia Testnet.
 
+[How to create an NFT on Mantle Tutorial Part1](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-i-deploying-the-nft-37c10cc87c5)
+[How to create an NFT on Mantle Tutorial Part2]([https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-i-deploying-the-nft-37c10cc87c5](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-ii-minting-the-deployed-nft-8874aac266b3))
+[How to create an NFT on Mantle Tutorial Part3](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-iii-how-to-view-the-deployed-nft-on-metamask-22b79a514fce)
+
 ## Deploying the NFT
 ### Part 1: Creating an NFT
 
