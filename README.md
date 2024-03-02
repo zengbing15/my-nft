@@ -1,10 +1,6 @@
 # my-nft
 The simple NFT token on Mantle Sepolia Testnet.
 
-[How to create an NFT on Mantle Tutorial Part1](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-i-deploying-the-nft-37c10cc87c5)
-[How to create an NFT on Mantle Tutorial Part2]([https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-i-deploying-the-nft-37c10cc87c5](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-ii-minting-the-deployed-nft-8874aac266b3))
-[How to create an NFT on Mantle Tutorial Part3](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-iii-how-to-view-the-deployed-nft-on-metamask-22b79a514fce)
-
 ## Deploying the NFT
 ### Part 1: Creating an NFT
 
@@ -161,3 +157,10 @@ You should have an output similar to the one shown below
 Lock with 0.001ETH and unlock timestamp 1709373094 deployed to 0x741F731F537E5A9402550C693B43c9e6e645b4fD
 ```
 Now that our contract is deployed, we can go to [Mantle Sepolia Explorer](https://explorer.sepolia.mantle.xyz/) and check if our contract was deployed.
+
+
+Ref:
+
+* [How to create an NFT on Mantle Tutorial Part1](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-i-deploying-the-nft-37c10cc87c5)
+* [How to create an NFT on Mantle Tutorial Part2](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-ii-minting-the-deployed-nft-8874aac266b3)
+* [How to create an NFT on Mantle Tutorial Part3](https://medium.com/0xmantle/how-to-create-an-nft-on-mantle-tutorial-part-iii-how-to-view-the-deployed-nft-on-metamask-22b79a514fce)
